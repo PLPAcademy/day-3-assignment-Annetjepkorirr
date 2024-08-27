@@ -109,3 +109,8 @@ A) Start by installing additional plugins
 B) Launch MySQL Workbench and connect to your MySQL Server
 C) Run mysqladmin start in the terminal
 D) Restart your computer to activate MySQL
+
+
+
+LINK TO MY ASSIGNMENT
+https://1drv.ms/w/s!AphNkYxVqfqsgg7P2s4hF9aVAa9J?e=LY08US
